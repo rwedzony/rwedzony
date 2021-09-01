@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome on my GH profile 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Professional+Java+Developer%2C;...but+also+ROR+enthusiast+as+well!)](https://git.io/typing-svg)
 
