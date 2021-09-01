@@ -1,6 +1,14 @@
 ### Welcome on my GH profile 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Professional+Java+Developer%2C;...but+also+ROR+enthusiast+as+well!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Professional+Java+Developer%2C;...but+ROR+enthusiast+as+well!)](https://git.io/typing-svg)
+
+<hr/>
+
+<hr/>
+
+📈 my github stats
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=rwedzony&show_icons=true&theme=gotham" alt="rwedzony" />
 
 **rwedzony/rwedzony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
