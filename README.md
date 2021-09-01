@@ -1,9 +1,12 @@
 ### Welcome on my GH profile 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Professional+Java+Developer%2C;...but+ROR+enthusiast+as+well!)](https://git.io/typing-svg)
-
+</p>
 <hr/>
 
+**Reach me on:**
+<br>
+<a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
 <hr/>
 
 📈 my github stats
