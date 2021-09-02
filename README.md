@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
 <hr/>
 🔭 I’m currently working as Java Developer in the Financial Services sector
+<br>
 💬 Ask me about possible collaboration
 <hr/>
 📈 my github stats
