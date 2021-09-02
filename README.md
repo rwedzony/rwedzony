@@ -8,7 +8,8 @@
 <br>
 <a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
 <hr/>
-
+🔭 I’m currently working as Java Developer in the Financial Services sector
+<hr/>
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=rwedzony&show_icons=true&theme=gotham" alt="rwedzony" />
