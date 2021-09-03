@@ -7,8 +7,6 @@
 🔧 **Tech stack:** 
 <br>
 ![Java](https://img.icons8.com/color/30/java.png)
-
-
 <hr/>
 
 **Reach me on:**
