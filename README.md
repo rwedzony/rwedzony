@@ -4,6 +4,13 @@
 </p>
 <hr/>
 
+🔧 **Tech stack:** 
+<br>
+![Java](https://img.icons8.com/color/30/java.png)
+
+
+<hr/>
+
 **Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
