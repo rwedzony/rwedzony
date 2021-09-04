@@ -4,19 +4,23 @@
 </p>
 <hr/>
 
+**About:**
+
+- 🔭 I’m currently working as Java Developer in the Financial Services sector<br>
+- 💬 Ask me about possible collaboration<br>
+- ⚡ Fun fact: Besides coding I am bass guitarist and passionate car mechanic
+<hr/>
+
 🔧 **Tech stack:** 
 <br>
+
 ![Java](https://img.icons8.com/color/30/java.png)
+
 <hr/>
 
 **Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
-<hr/>
-🔭 I’m currently working as Java Developer in the Financial Services sector
-<br>
-- 💬 Ask me about possible collaboration
-- ⚡ Fun fact: Besides coding I am bass guitarist and passionate car mechanic
 <hr/>
 📈 my github stats
 
