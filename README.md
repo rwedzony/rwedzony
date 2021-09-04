@@ -14,8 +14,13 @@
 🔧 **Tech stack:** 
 <br>
 
-![Java](https://img.icons8.com/color/30/java.png)
+<!-- ![Java](https://img.icons8.com/color/30/java.png) -->
 
+<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Spring" width="40px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"/>
+
+<br>
+<br>
 <hr/>
 
 **Reach me on:**
