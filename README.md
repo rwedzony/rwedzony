@@ -15,7 +15,8 @@
 <hr/>
 🔭 I’m currently working as Java Developer in the Financial Services sector
 <br>
-💬 Ask me about possible collaboration
+- 💬 Ask me about possible collaboration
+- ⚡ Fun fact: Besides coding I am bass guitarist and passionate car mechanic
 <hr/>
 📈 my github stats
 
