@@ -29,6 +29,7 @@
 <img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <img align="left" alt="heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4"/>
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
 
 
 <br>
