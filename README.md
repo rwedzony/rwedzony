@@ -1,4 +1,6 @@
 ### Warm welcome to my GH profile! 👋
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwedzony&label=Profile%20views&color=0e75b6&style=flat" alt="rwedzony" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Professional+Java+Developer%2C;...but+ROR+enthusiast+as+well!)](https://git.io/typing-svg)
 </p>
