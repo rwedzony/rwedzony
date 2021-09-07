@@ -14,8 +14,6 @@
 🔧 **Tech stack:** 
 <br>
 
-<!-- ![Java](https://img.icons8.com/color/30/java.png) -->
-
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Hibernate" width="40px" src="https://avatars.githubusercontent.com/u/348262?s=200&v=4" />
 <img align="left" alt="Spring" width="40px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"/>
@@ -30,7 +28,7 @@
 <img align="left" alt="heroku" width="40px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4"/>
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
-
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 
 <br>
 <br>
