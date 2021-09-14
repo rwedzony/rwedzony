@@ -48,12 +48,18 @@
 **Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
+
 <hr/>
+
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=rwedzony&show_icons=true&theme=highcontrast" alt="rwedzony" />
 
-  
+<hr/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwedzony&layout=compact&hide=html" alt="rwedzony" />
+
+<br>
   
   
   
