@@ -32,6 +32,7 @@
 <img align="left" alt="Maven" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"/>
 <img align="left" alt="Gradle" width="50px" src="https://user-images.githubusercontent.com/18702379/133121620-58056688-31e4-4dc6-9f25-f54ba29c0b41.png"/>
 
+
 <br><br><br>
 
 *Ruby based stack:*
@@ -46,6 +47,7 @@
 <img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" alt="H2" width="50px" src="https://avatars.githubusercontent.com/u/11459762?s=200&v=4"/>
+<img align="left" alt="Flyway" width="50px" src="https://avatars.githubusercontent.com/u/2109532?s=200&v=4"/>
 
 <br><br><br>
 
