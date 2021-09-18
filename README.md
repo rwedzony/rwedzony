@@ -4,14 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Professional+Java+Developer%2C;...but+ROR+enthusiast+as+well!)](https://git.io/typing-svg)
 </p>
-<hr/>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 **About:**
 
 - 🔭 I’m currently working as Java Developer in the Financial Services sector<br>
 - 💬 Ask me about possible collaboration<br>
 - ⚡ Fun fact: Besides coding I am bass guitarist and passionate car mechanic
-<hr/>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 🔧 **Tech stack:** 
 
@@ -61,19 +63,20 @@
 
 <br>
 <br>
-<hr/>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 **Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/rafal-wedzony/" target="blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="rwedzony" height="40" width="40" /></a>
 
-<hr/>
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=rwedzony&show_icons=true&theme=highcontrast" alt="rwedzony" />
 
-<hr/>
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwedzony&layout=compact&hide=html" alt="rwedzony" />
 
