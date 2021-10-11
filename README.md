@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as Java Developer in the Financial Services sector<br>
 - 💬 Ask me about possible collaboration<br>
-- ⚡ Fun fact: Besides coding I am bass guitarist and passionate car mechanic
+- ⚡ Fun fact: Besides coding I am bass guitarist, paraglider and passionate car mechanic
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
