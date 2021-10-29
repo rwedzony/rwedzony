@@ -42,10 +42,9 @@
 
 *Databases:*
 
-<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<img align="left" alt="postgresql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-<img align="left" alt="H2" width="50px" src="https://avatars.githubusercontent.com/u/11459762?s=200&v=4"/>
-<img align="left" alt="Flyway" width="50px" src="https://avatars.githubusercontent.com/u/2109532?s=200&v=4"/>
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br><br><br>
 
