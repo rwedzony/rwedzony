@@ -9,7 +9,7 @@
 
 **About:**
 
-- 🔭 I’m currently working as Java Developer in the Financial Services sector<br>
+- 🔭 I’m currently working as Java developer in the financial services sector<br>
 - 💬 Ask me about possible collaboration<br>
 - ⚡ Fun fact: Besides coding I am bass guitarist, paraglider and passionate car mechanic
 
