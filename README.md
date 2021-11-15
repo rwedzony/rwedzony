@@ -58,6 +58,7 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 *OS:*
 
@@ -82,10 +83,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwedzony&layout=compact&hide=html" alt="rwedzony" />
 
 <br>
-  
-  
-  
-  
+ 
 <!--
 **rwedzony/rwedzony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
